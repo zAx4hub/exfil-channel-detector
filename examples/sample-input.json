@@ -1,0 +1,15 @@
+{
+  "items": [
+    {
+      "text": "Detect covert exfil channels in tool input and output"
+    },
+    {
+      "text": "zAx4hub fixture"
+    },
+    {
+      "text": "nested (demo) {ok}"
+    }
+  ],
+  "query": "zAx4hub",
+  "capacity": 5
+}
